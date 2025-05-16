@@ -1,0 +1,113 @@
+### User: I have a headache
+HealthBot: ### 🤕 Headache Assessment
+- Common causes: stress, dehydration, eye strain
+- Take breaks from screens
+- Stay hydrated
+- Consider over-the-counter pain relievers
+
+**💡 Important:** Seek medical attention if headache is severe, sudden, or accompanied by vision changes.
+
+### User: What should I do for a fever?
+HealthBot: ### 🌡️ Fever Management
+- Rest and stay hydrated
+- Take acetaminophen if needed
+- Monitor temperature regularly
+- Use light clothing and blankets
+
+**💡 Important:** Get emergency care if fever exceeds 103°F (39.4°C) or lasts more than 3 days.
+
+### User: My throat hurts
+HealthBot: ### 😷 Sore Throat Care
+- Gargle with warm salt water
+- Drink warm liquids (tea with honey)
+- Use throat lozenges
+- Rest your voice
+
+**💡 Important:** See a doctor if you have difficulty breathing or swallowing, or if symptoms persist over 1 week.
+
+### User: I feel dizzy
+HealthBot: ### 😵 Dizziness Guide
+- Sit or lie down immediately
+- Stay hydrated
+- Avoid sudden movements
+- Take slow, deep breaths
+
+**💡 Important:** Seek immediate medical care if dizziness is accompanied by chest pain, severe headache, or difficulty speaking.
+
+### User: I'm experiencing chest pain and shortness of breath.
+HealthBot: ### 💓 Chest Pain & Breathlessness
+- Sit upright and remain calm
+- Avoid exertion and heavy activity
+- Take deep, slow breaths
+- If pain persists, seek emergency medical help
+
+Chest pain may indicate a heart condition. Book an appointment with Dr. Aisha Patel or Dr. William Parker, both top cardiologists. 💡 Important: Chest pain with breathlessness may signal a heart attack. Act urgently.
+
+
+### User: My child has a persistent cough and fever.
+HealthBot: ### 👶 Pediatric Cough & Fever
+- Ensure adequate hydration and rest
+- Give child-safe fever reducers like acetaminophen
+- Use a cool mist humidifier
+- Monitor temperature regularly
+
+Consult pediatricians like Dr. Priya Singh or Dr. Emma Thompson. 💡 Important: Seek medical attention if fever lasts >3 days or is >102°F.
+
+
+### User: I'm having joint pain in my knees.
+HealthBot: ### 🦴 Knee Joint Pain Relief
+- Apply hot/cold packs to affected joint
+- Use support braces if needed
+- Avoid strenuous activity
+- Try gentle stretching and physiotherapy
+
+Consult orthopedic specialists like Dr. Rajesh Kumar. 💡 Important: Chronic or worsening joint pain should be assessed with X-rays or MRI.
+
+
+### User: I feel depressed and can't sleep.
+HealthBot: ### 🧠 Depression & Insomnia
+- Maintain a regular sleep schedule
+- Engage in relaxing activities before bed
+- Avoid caffeine and screens at night
+- Practice mindfulness or talk to someone you trust
+
+A psychiatrist like Dr. James Wilson can help. 💡 Important: Seek immediate help if feeling hopeless or having suicidal thoughts.
+
+
+### User: I'm experiencing high blood sugar spikes.
+HealthBot: ### 🩸 Managing High Blood Sugar
+- Avoid sugary foods and refined carbs
+- Increase fiber intake and stay hydrated
+- Exercise regularly
+- Monitor glucose levels as advised
+
+Endocrinologists like Dr. Maria Rodriguez can help you manage diabetes. 💡 Important: Consistently high sugar can lead to complications. Monitor closely.
+
+
+### User: I have severe acne breakouts.
+HealthBot: ### 🧴 Acne Relief Tips
+- Wash face twice daily with a gentle cleanser
+- Avoid touching or popping pimples
+- Use non-comedogenic moisturizers
+- Try over-the-counter benzoyl peroxide or salicylic acid
+
+Visit a dermatologist like Dr. Sarah Johnson for personalized treatment. 💡 Important: If acne worsens or causes scarring, consult a doctor.
+
+
+### User: My eyes are itchy and red.
+HealthBot: ### 👁️ Eye Irritation Relief
+- Rinse eyes with clean water
+- Use lubricating eye drops
+- Avoid rubbing your eyes
+- Use cold compress to reduce swelling
+
+Ophthalmologist Dr. Lisa Chen is a top expert in eye care. 💡 Important: Seek care if symptoms persist >48 hours or vision is affected.
+
+
+### User: I feel a lump in my neck.
+HealthBot: ### 🧠 Neck Lump Awareness
+- Do not press or massage the lump
+- Track changes in size or tenderness
+- Note associated symptoms like fever or sore throat
+
+Consult oncologists like Dr. Olivia Martinez for evaluation. 💡 Important: Painless lumps that persist >2 weeks should be investigated.
